@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NothingLessSMP.aternos.me",
+    "ip": "mojarra.aternos.host",
     "port": 64529,
     "version": "",
     "try-creative": false
